@@ -1,4 +1,4 @@
-# Test ARM boards peripherals
+# Test ARM peripherals
 
 This is a sample code for testing your peripherals on arm boards like Raspberry pi/ IMX/ SUNXI boards.
 
