@@ -1,0 +1,9 @@
+# [build]
+# target = "armv7-unknown-linux-gnueabihf"
+
+# [target.armv7-unknown-linux-gnueabihf]
+# linker = "arm-poky-linux-gnueabi-gcc"
+# rustflags = [
+#     "-C", "link-arg=--sysroot=/opt/poky/3.1.16/sysroots/cortexa7hf-neon-vfpv4-poky-linux-gnueabi/",
+#     "-C", "link-args=-Xlinker --dynamic-linker=/lib/ld-linux-armhf.so.3"
+# ]
